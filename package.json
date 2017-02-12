@@ -41,5 +41,10 @@
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "co": "^4.6.0",
+    "es6-promisify": "^5.0.0",
+    "rime": "^1.1.1"
+  }
 }
